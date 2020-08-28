@@ -1,0 +1,2 @@
+D:\Repository\AlgorithmFactory\Algorithms\obj\Debug\Algorithm.csprojAssemblyReference.cache
+D:\Repository\AlgorithmFactory\Algorithms\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
